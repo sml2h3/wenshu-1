@@ -1,0 +1,3 @@
+hezuo.sh: line 8: doc_id_data/tmp_hezuo: No such file or directory
+cat: id/hezuo_id_20190329.csv: No such file or directory
+ERROR 2 (HY000) at line 1: File 'doc_id_data/tmp_hezuo' not found (Errcode: 2)
